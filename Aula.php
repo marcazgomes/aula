@@ -1,5 +1,7 @@
 <?php
 
-	echo "Aula Repositórios"
+	echo "Aula Repositórios comando pull"
+
+	echo "nova linha comando push"
 
 ?>
